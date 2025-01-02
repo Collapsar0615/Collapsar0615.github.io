@@ -29,3 +29,8 @@ Nanjing Tech University (BSc,Applied Physics).
 - **June 2024：** I graduated from Nanjing Tech University with an Excellence Bachelor's Degree in Science and was awarded the title of Outstanding Graduate.🎉
 
 
+<!-- GOES INTO HEAD -->
+<link rel="stylesheet" href="http://lengthylyova.pythonanywhere.com/static/gh-contrib-graph/gh.css">
+
+<!-- GOES INTO BODY -->
+<div id="gh" data-login="Collapsar0615"></div>
