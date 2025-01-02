@@ -14,4 +14,5 @@ order: 5
 
 ### Friends
 
--  [Cybertronyhs](https://cybertronyhs.github.io)
+<div class="box-info" markdown="1">
+-  [Cybertronyhs](https://cybertronyhs.github.io)</div> 
