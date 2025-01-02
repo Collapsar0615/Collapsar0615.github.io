@@ -20,7 +20,7 @@ Nanjing Tech University (BSc,Applied Physics).
 
 ## Research Interests ⚛️
 
-- General Relativity and Quantum Cosmology,especially related to Black Hole Thermodynamic.
+General Relativity and Quantum Cosmology
 
 
 
@@ -29,8 +29,13 @@ Nanjing Tech University (BSc,Applied Physics).
 - **June 2024：** I graduated from Nanjing Tech University with an Excellence Bachelor's Degree in Science and was awarded the title of Outstanding Graduate.🎉
 
 
+## Github Contributions
+
 <!-- GOES INTO HEAD -->
 <link rel="stylesheet" href="http://lengthylyova.pythonanywhere.com/static/gh-contrib-graph/gh.css">
 
 <!-- GOES INTO BODY -->
 <div id="gh" data-login="Collapsar0615"></div>
+
+<!-- GOES INTO THE END OF BODY -->
+<script src="http://lengthylyova.pythonanywhere.com/static/gh-contrib-graph/gh.js"></script>
