@@ -6,6 +6,6 @@ order: 5
 - [Overleaf](https://www.overleaf.com/project)
 -  [ITP,CAS](https://itp.cas.cn/)
 
-  ## Friends
+## Friends
 
 -  [cybertronyhs](https://cybertronyhs.github.io)
