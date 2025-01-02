@@ -29,13 +29,5 @@ General Relativity and Quantum Cosmology
 - **June 2024：** I graduated from Nanjing Tech University with an Excellence Bachelor's Degree in Science and was awarded the title of Outstanding Graduate.🎉
 
 
-## Github Contributions
 
-<!-- GOES INTO HEAD -->
-<link rel="stylesheet" href="https://lengthylyova.pythonanywhere.com/static/gh-contrib-graph/gh.css">
 
-<!-- GOES INTO BODY -->
-<div id="gh" data-login="Collapsar0615"></div>
-
-<!-- GOES INTO THE END OF BODY -->
-<script src="https://lengthylyova.pythonanywhere.com/static/gh-contrib-graph/gh.js"></script>
