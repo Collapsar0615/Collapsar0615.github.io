@@ -22,8 +22,6 @@ Nanjing Tech University (BSc,Applied Physics).
 
 General Relativity and Quantum Cosmology
 
-
-
 ## News and Updates 👣
 
 - **June 2024：** I graduated from Nanjing Tech University with an Excellence Bachelor's Degree in Science and was awarded the title of Outstanding Graduate.🎉
