@@ -20,7 +20,7 @@ Nanjing Tech University (BSc,Applied Physics).
 
 ## Research Interests ⚛️
 
-- General Relativity and Quantum Cosmology 
+- General Relativity and Quantum Cosmology,especially related to Black Hole Thermodynamic.
 
 
 
