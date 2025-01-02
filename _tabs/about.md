@@ -12,7 +12,7 @@ Here is **Collapsar** (Ma Tao).Welcome to my homepage!
 
 
 - **Sep 2024 - Future:** 
-[HIAS](https://hias.ucas.ac.cn/),UCAS,(Theoretical Physics).
+HIAS,UCAS,(Theoretical Physics).
 
 - **Oct 2020 - June 2024:** 
 Nanjing Tech University (BSc,Applied Physics).
