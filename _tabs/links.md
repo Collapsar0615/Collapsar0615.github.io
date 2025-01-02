@@ -10,4 +10,4 @@ order: 5
 
 ### Friends
 
--  [cybertronyhs](https://cybertronyhs.github.io)
+-  [Cybertronyhs](https://cybertronyhs.github.io)
