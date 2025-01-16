@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Collapsar</title>
   <subtitle>A personal blog by Ma Tao.</subtitle>
-  <updated>2025-01-15T10:07:13+08:00</updated>
+  <updated>2025-01-16T15:22:43+08:00</updated>
   <author>
     <name>Ma Tao</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Year-End Review for 2024</title>
+    <link href="http://localhost:4000/posts/review/" rel="alternate" type="text/html" title="Year-End Review for 2024" />
+    <published>2025-01-16T00:00:00+08:00</published>
+  
+    <updated>2025-01-16T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/review/</id>
+    <content src="http://localhost:4000/posts/review/" />
+    <author>
+      <name>Ma Tao</name>
+    </author>
+
+  
+    
+    <category term="Essay" />
+    
+  
+
+  <summary>“Those outside the city want to rush in, while those inside the city want to escape.”</summary>
+
+  </entry>
 
   
   <entry>
@@ -112,7 +136,7 @@
 
   
     
-    <category term="Reading journal" />
+    <category term="Essay" />
     
   
 
