@@ -45,7 +45,7 @@
 <meta property="twitter:title" content="The Not So Short Introduction to Typst(to be continued)" />
 <meta name="google-site-verification" content="google-site-verification=PEPeRx_9cFlCXU3g-PmGJOZ1h9xocgCcY7g1WGtA39k" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2025-01-18T00:00:00+08:00","datePublished":"2025-01-18T00:00:00+08:00","description":"A Quick Start Guide to Typst, including its advantages, environment setup, and syntax.","headline":"The Not So Short Introduction to Typst(to be continued)","image":"https://cdn.jsdelivr.net/gh/Collapsar0615/Collapsar0615.github.io@main/assets/img/in-post/2025/typst/cover.png","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/typst/"},"url":"http://localhost:4000/posts/typst/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2025-01-18T12:45:47+08:00","datePublished":"2025-01-18T00:00:00+08:00","description":"A Quick Start Guide to Typst, including its advantages, environment setup, and syntax.","headline":"The Not So Short Introduction to Typst(to be continued)","image":"https://cdn.jsdelivr.net/gh/Collapsar0615/Collapsar0615.github.io@main/assets/img/in-post/2025/typst/cover.png","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/typst/"},"url":"http://localhost:4000/posts/typst/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -977,6 +977,17 @@
 
       
     
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
 
     
   
@@ -1033,6 +1044,29 @@
 
       <!-- lastmod date -->
       
+        <span>
+          Updated
+          <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+<time
+  
+  data-ts="1737175547"
+  data-df="ll"
+  
+    data-bs-toggle="tooltip" data-bs-placement="bottom"
+  
+>
+  Jan 18, 2025
+</time>
+
+        </span>
+      
 
       
         
@@ -1084,9 +1118,9 @@
   class="readtime"
   data-bs-toggle="tooltip"
   data-bs-placement="bottom"
-  title="958 words"
+  title="1148 words"
 >
-  <em>5 min</em> read</span>
+  <em>6 min</em> read</span>
 
         </div>
       </div>
@@ -1138,9 +1172,26 @@
 <a href="https://cdn.jsdelivr.net/gh/Collapsar0615/Collapsar0615.github.io@main/assets/img/in-post/2025/typst/3.png" class="popup img-link  shimmer"><img src="https://cdn.jsdelivr.net/gh/Collapsar0615/Collapsar0615.github.io@main/assets/img/in-post/2025/typst/3.png" alt="官方的webapp" loading="lazy"></a></p>
 
 <h2 id="latex用户快速入门"><span class="me-2">$\LaTeX$用户快速入门</span><a href="#latex用户快速入门" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
-<h3 id="创建文档"><span class="me-2">创建文档</span><a href="#创建文档" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
-<h3 id="章节标题与强调"><span class="me-2">章节标题与强调</span><a href="#章节标题与强调" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
-<h3 id="命令"><span class="me-2">命令</span><a href="#命令" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
+<h3 id="创建文档章节标题与斜体粗体以及列表"><span class="me-2">创建文档、章节标题与斜体、粗体以及列表</span><a href="#创建文档章节标题与斜体粗体以及列表" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
+<p>如同$\LaTeX$创建<code class="language-plaintext highlighter-rouge">.tex</code>文件一样,Typst只需要创建一个<code class="language-plaintext highlighter-rouge">.typ</code>文件即可.默认使用A4纸张,而段落同样只需要空行.</p>
+
+<p>Typst使用<code class="language-plaintext highlighter-rouge">= 一级标题</code>、<code class="language-plaintext highlighter-rouge">== 二级标题</code>来输出标题,标题的深度取决于<code class="language-plaintext highlighter-rouge">=</code>的数量,这一点类似于Markdown的<code class="language-plaintext highlighter-rouge"># 一级标题</code>.此外,Typst使用<code class="language-plaintext highlighter-rouge">_ 斜体_</code>来表示斜体,使用<code class="language-plaintext highlighter-rouge">* 粗体 *</code>来表示粗体.</p>
+
+<p>对于无序列表,只需要在项目前面加上连字符<code class="language-plaintext highlighter-rouge">-</code>,如</p>
+
+<pre><code class="language-Typst">- First
+- Second
+- Third
+</code></pre>
+<p>有序列表在项目前面加上<code class="language-plaintext highlighter-rouge">+</code>,即</p>
+<pre><code class="language-Typst">+ First
++ Second
++ Third
+</code></pre>
+
+<h3 id="标记模式与代码模式"><span class="me-2">标记模式与代码模式</span><a href="#标记模式与代码模式" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
+<h3 id="模板与导入包"><span class="me-2">模板与导入包</span><a href="#模板与导入包" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
+<h3 id="数学公式输入"><span class="me-2">数学公式输入</span><a href="#数学公式输入" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 <h2 id="语法介绍"><span class="me-2">语法介绍</span><a href="#语法介绍" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 
 <h2 id="参考"><span class="me-2">参考</span><a href="#参考" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
