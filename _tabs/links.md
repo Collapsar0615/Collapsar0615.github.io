@@ -16,9 +16,4 @@ Here are some commonly used websites for easy access and reference.It also inclu
 ### Friends
 
 
-<a href="https://baidu.com" target="_blank">
-  <img src="https://collapsar0615.github.io/assets/img/yhs.jpg" alt="Twitter" class="icon">
-</a>
-
-  -  [Cybertronyhs](https://cybertronyhs.github.io)
 
