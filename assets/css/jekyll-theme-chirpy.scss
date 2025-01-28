@@ -34,11 +34,11 @@ blockquote[class^='prompt-']{
 
 /* 侧边栏背景图片添加 */
 #sidebar {
-    background-image: url(/assets/img/background.jpg); /* <- change background image */
+    background-image: url(/assets/img/background1.jpg); /* <- change background image */
     background-size: cover; /* <- customize the image size */
     background-repeat: no-repeat; /* <- no-repeat */
     background-position: top; /* <- image position */
- padding-top:  250px; /* 根据需要调整像素值 */
+ padding-top:  100px; /* 根据需要调整像素值 */
 }
 
 #sidebar .site-title a {
@@ -128,3 +128,13 @@ html {
 }
 /* 设置中文字体为微软雅黑 */
 
+.icon {
+  width: 50px; /* 设置图标的宽度 */
+  height: 50px; /* 设置图标的高度 */
+  border-radius: 50%; /* 如果需要使图标圆形 */
+  transition: transform 0.3s ease; /* 添加平滑的过渡效果 */
+}
+
+.icon:hover {
+  transform: scale(1.1); /* 鼠标悬停时稍微放大 */
+}

@@ -4,23 +4,28 @@ icon:  far fa-address-book
 order: 4
 ---
 
-Here is **Collapsar** (Ma Tao).Welcome to my homepage!
+Hello,everyone!😊 
+
+
+Here is **Collapsar** (Ma Tao),and I am now a master majoring in theoretical physics at the University of Chinese Academy of Sciences.
+
+My personal website is based on GitHub Pages, using the Chirpy theme for Jekyll, and I periodically update it with blog posts. Feel free to visit and leave any helpful suggestions.😆
 
 
 
-## Academic Background 🏫
+## Academic Background 
 
 
 - **Sep 2024 - Future:** 
-HIAS,UCAS,(Theoretical Physics).
+HIAS & ITP,UCAS,(*Theoretical Physics*).
 
 - **Oct 2020 - June 2024:** 
-Nanjing Tech University (BSc,Applied Physics).
+Nanjing Tech University (BSc,*Applied Physics*).
 
 
-## Research Interests ⚛️
+## Research Interests 
 
-General Relativity and Quantum Cosmology
+**General Relativity & Quantum Cosmology**
 
 ## News and Updates 👣
 <!-- 
