@@ -1,8 +1,8 @@
-@font-face {
-  font-family: "WenKai"; /* 给字体取个名字 */
-  src: url('/assets/LXGWWenKaiScreen.ttf') format('truetype'); /* 引用本地字体文件 */
+body {
+  font-family: "LXGW WenKai Screen", apple-system, Verdana, "PingFang SC", "Helvetica Neue", Arial, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 }
 
-body {
-  font-family: "WenKai", sans-serif; /* 使用该字体 */
+/* 如果你只想让某些特定元素使用某些字体 */
+.english-text {
+  font-family: "Caveat", cursive;
 }
