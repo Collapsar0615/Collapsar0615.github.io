@@ -1,8 +1,8 @@
 body {
-  font-family: 'Caveat', cursive;
+  font-family: "LXGW WenKai Screen", apple-system, Verdana, "PingFang SC", "Helvetica Neue", Arial, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 }
 
-/* 如果你只想让某些特定元素使用 Caveat 字体，比如所有英文文字 */
+/* 如果你只想让某些特定元素使用某些字体 */
 .english-text {
-  font-family: 'Caveat', cursive;
+  font-family: "Caveat", cursive;
 }
