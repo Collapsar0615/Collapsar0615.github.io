@@ -1,30 +1,8 @@
-/*body {
-  font-family: "Microsoft YaHei", sans-serif;
-}
-
-/* 如果你只想让某些特定元素使用某些字体 */
-/*.english-text {
-  font-family: "Caveat", cursive;
-}*/
-/* 全局设置：中文使用楷体，英文使用 Times New Roman */
-body {
-  font-family: "Microsoft YaHei", sans-serif;
-}
-
-body, p, div {
-  font-family: "Microsoft YaHei", "KaiTi", sans-serif;
+@font-face {
+  font-family: "WenKai"; /* 给字体取个名字 */
+  src: url('/assets/LXGWWenKaiScreen.ttf') format('truetype'); /* 引用本地字体文件 */
 }
 
 body {
-  font-family: "KaiTi", "Microsoft YaHei", serif; /* 让中文显示为楷体，英文使用Times New Roman */
-  font-family: "Times New Roman", serif;
-}
-
-/* 为特定元素设置字体 */
-.english-text {
-  font-family: "Times New Roman", serif;
-}
-
-.chinese-text {
-  font-family: "KaiTi", sans-serif;
+  font-family: "WenKai", sans-serif; /* 使用该字体 */
 }
