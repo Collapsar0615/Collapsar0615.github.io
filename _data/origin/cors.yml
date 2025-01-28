@@ -18,7 +18,7 @@ resource_hints:
 webfonts: |
   @font-face {
     font-family: "WenKai"; /* 给字体取个名字 */
-    src: url('/assets/LXGWWenKaiScreen.ttf') format('truetype'); /* 引用本地字体文件 */
+    src: url('/assets/LXGWWenKaiScreen.ttf') format('truetype');
   }
 
 
