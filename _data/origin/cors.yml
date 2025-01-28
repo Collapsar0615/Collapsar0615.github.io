@@ -14,8 +14,12 @@ resource_hints:
       - rel: preconnect
       - rel: dns-prefetch
 
-# Web Fonts
-webfonts: https://fonts.googleapis.com/css2?family=Pacifico&display=swap
+# Web Fonts (改为使用本地字体)
+webfonts: |
+  @font-face {
+    font-family: "WenKai"; /* 给字体取个名字 */
+    src: url('/assets/LXGWWenKaiScreen.ttf') format('truetype'); /* 引用本地字体文件 */
+  }
 
 
 # Libraries
