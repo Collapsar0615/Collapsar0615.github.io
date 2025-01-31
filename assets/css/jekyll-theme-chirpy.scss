@@ -128,3 +128,20 @@ html {
 }
 /* 设置中文字体为微软雅黑 */
 
+@import url('http://lengthylyova.pythonanywhere.com/static/gh-contrib-graph/gh.css');
+
+.ghCalendarHeader {
+  margin-bottom: 1rem;
+  color:var(--text-color);
+}
+.ghThumbNail {
+  display: none;
+}
+#gh a {
+  text-decoration: none;
+  color: var(--link-color);
+}
+.ghCalendarCard {
+  border: var(--language-border-color) 1px solid;
+  border-radius: .5rem;
+}
