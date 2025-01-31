@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Collapsar</title>
   <subtitle>A personal blog by Ma Tao.</subtitle>
-  <updated>2025-01-31T20:20:31+08:00</updated>
+  <updated>2025-01-31T20:30:19+08:00</updated>
   <author>
     <name>Ma Tao</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/review/" rel="alternate" type="text/html" title="Year-End Review for 2024" />
     <published>2025-01-31T00:00:00+08:00</published>
   
-    <updated>2025-01-31T19:24:18+08:00</updated>
+    <updated>2025-01-31T20:20:52+08:00</updated>
   
     <id>http://localhost:4000/posts/review/</id>
     <content src="http://localhost:4000/posts/review/" />
