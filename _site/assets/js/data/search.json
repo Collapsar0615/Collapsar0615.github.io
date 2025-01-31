@@ -1,6 +1,23 @@
 [
   
   {
+    "title": "The Not So Short Introduction to xAct (updating)",
+    "url": "/posts/xAct/",
+    "categories": "Information Technology, Mathematica",
+    "tags": "xAct",
+    "date": "2025-01-18 00:00:00 +0800",
+    
+
+
+
+
+
+    
+    "snippet": "介绍xAct 是一套用于 Wolfram 语言中的张量计算代数的免费软件包。xAct 实现了用于快速操作指标的最先进算法，并且以当前的广义相对论几何方法为基础进行建模。它具有高度的可编程性和可配置性。自 2004 年 3 月首次公开发布以来，xAct 已经过了大量的测试，并且成功解决了广义相对论中的一些难题。xAct有四个主要的软件包：  xCore：通用编程工具  xPerm：大规模置换群...",
+    "content": "介绍xAct 是一套用于 Wolfram 语言中的张量计算代数的免费软件包。xAct 实现了用于快速操作指标的最先进算法，并且以当前的广义相对论几何方法为基础进行建模。它具有高度的可编程性和可配置性。自 2004 年 3 月首次公开发布以来，xAct 已经过了大量的测试，并且成功解决了广义相对论中的一些难题。xAct有四个主要的软件包：  xCore：通用编程工具  xPerm：大规模置换群的操作  xTensor：抽象张量计算,用于处理张量与协变导数.  xCoba：坐标系中的张量分析,用于张量分量的计算安装下面均以Windows为例,说明如何安装xAct包和Invar黎曼等式数据库(非必需).安装xAct包  进入xAct的官网,点击Download可以查看和下载安装包.  打开Mathematica,新建一个.nb文件,然后输入以下代码查看包安装位置    $UserBaseDirectory &lt;&gt; \"\\\\Applications\"        按住Shift+Enter会返回如下结果将解压后的xAct包放入该位置即可.要验证是否已经正确安装,只需要键入命令    &lt;&lt; xAct`xTensor`      如果出现如下的文字则说明xAct包安装成功.安装Invar黎曼等式数据库(非必需)Invar数据库内包含很多现成的黎曼张量相关的表达式，所以安装此数据库的好处之一是可以方便化简张量的抽象指标表达式。  在xAct官网点击Packages,左下角找到Invar包,在Download and Installation一栏中下载Riemann.tar.gz和Riemann expand4order12.tar.gz文件并解压.  将Riemann文件夹移动到xAct安装的位置···/Applications/xAct/Invar,并将解压后的Riemann expand4order12.tar.gz文件移入Riemann文件夹内学习平台通过Mathematica查找相应功能如果想在Mathematica上查找Metric相关的函数,主要有以下三种方法:  ?*Metric*:给出所有包含Metric的内置函数;  ?Metric*:给出以Metric开头的内置函数;  ?*Metric:给出以Metric结尾的内置函数.通过官方的文档和视频官方文档上面有很多学习资料,现在归类如下:  关于作者的简单介绍          Introductory talk (1 hour, pdf).      Basic concepts (2 hours, mathematica slide show).      Intermediate concepts (2 hours, mathematica slide show).      Advanced concepts (2 hours, mathematica slide show).      xAct intro (Nov 23, 2022) in youtube, notebook of the talk        简单的入门教程          the introduction to xAct by Teake Nutma      the introductory tutorial by Jolyon Bloomfield.        较为详细的教程          xAct Course held in Prague in 2018 by Alfonso García-Parrado      full notebook of the talk        视频教程          xAct for the General Theory of Relativity      Tensor algebra made easy with Mathematica        他人分享的程序:xAct example notebooks其他的网站  Mathematica &amp; Wolfram Language  xAct-contrib github  xAct Forum"
+  },
+  
+  {
     "title": "The Not So Short Introduction to Typst(updating)",
     "url": "/posts/typst/",
     "categories": "Computer Science, Typst",

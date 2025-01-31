@@ -1,19 +1,23 @@
 ---
 icon: fa-solid fa-link
+math: true
 order: 5
 ---
-Here are some commonly used websites for easy access and reference.It also includes links to some of my friends' websites,allowing visitors to easily connect to them.
-
+Here are some commonly used links for easy access and reference.
 
 ### Community Forums
-- [G&C Group of ITP,CAS](https://gc.itp.ac.cn/) (Random access)
-- [Chaoli Club](https://chaoli.club/index.php)
-- [Quora](https://www.quora.com/)
 
----
+<div class="box-tip" markdown="1">
+- [G&C Group of ITP,CAS](https://gc.itp.ac.cn/) (Random access)
+- [Chaoli Club](https://chaoli.club/index.php/conversations)
+- [Quora](https://www.quora.com/?time=1738314525550829&uid=2924869144&unh=6f2c8834f31691d7fad4e7fd961ed85a)
+- [ITP,CAS](https://itp.cas.cn/)
+- [Inspire-hep](https://inspirehep.net/)
+- [Arxiv (gr-qc)](https://arxiv.org/archive/gr-qc)
+</div>
 
 ### Personal Homepage
-
+<div class="box-tip" markdown="1">
 - [Sean Carroll](https://www.preposterousuniverse.com/)
 - [Chen Tong's Quantum New World](https://newquanta.com/)
 - [Li Wenwei's academic homepage](https://wwli.asia/index.php/)
@@ -21,9 +25,7 @@ Here are some commonly used websites for easy access and reference.It also inclu
 - [Shi Pi’s Homepage](https://stonepi.github.io/)
 - [Shao-Jiang Wang](https://wangshaojiang.com/)
 - [Zhong-Zhi Xianyu](https://zzxianyu.com/)
-
----
-
+</div>
 ### Solutions to problems 
 - *Schwartz,QFT*
   - [To Chin Yu](https://ytcs.github.io/schwartz.pdf)
@@ -34,12 +36,15 @@ Here are some commonly used websites for easy access and reference.It also inclu
  
 ### Tools
 
+
+> $ \LaTeX $
 - [Overleaf](https://www.overleaf.com/project)
-- [ITP,CAS](https://itp.cas.cn/)
-- [INSPIRE-HEP](https://inspirehep.net/)
-- [Arxiv(gr-qc)](https://arxiv.org/archive/gr-qc)
- 
- ---
+- [Latex-Tables](https://www.latex-tables.com/) 
+- [Detexify](https://detexify.kirelabs.org/classify.html)
+- [Latexstudio](https://www.latexstudio.net)
+{: .prompt-tip}
+
+
 
 ### Friends
 - [Cybertronyhs](https://cybertronyhs.github.io/)

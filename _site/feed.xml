@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Collapsar</title>
   <subtitle>A personal blog by Ma Tao.</subtitle>
-  <updated>2025-01-31T15:51:31+08:00</updated>
+  <updated>2025-01-31T17:22:23+08:00</updated>
   <author>
     <name>Ma Tao</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>The Not So Short Introduction to xAct (updating)</title>
+    <link href="http://localhost:4000/posts/xAct/" rel="alternate" type="text/html" title="The Not So Short Introduction to xAct (updating)" />
+    <published>2025-01-18T00:00:00+08:00</published>
+  
+    <updated>2025-01-18T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/xAct/</id>
+    <content src="http://localhost:4000/posts/xAct/" />
+    <author>
+      <name>Ma Tao</name>
+    </author>
+
+  
+    
+    <category term="Information Technology" />
+    
+    <category term="Mathematica" />
+    
+  
+
+  <summary>A Quick Start Guide to xACT, including its advantages, environment setup, and syntax.</summary>
+
+  </entry>
 
   
   <entry>
@@ -119,30 +145,6 @@
   
 
   <summary>“Black holes are not dead stars, nor are they the final outcome of stellar evolution; rather, they are just one stage in the process of stellar evolution.”</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Qian Zhongshu, Fortress Besieged</title>
-    <link href="http://localhost:4000/posts/weicheng/" rel="alternate" type="text/html" title="Qian Zhongshu, Fortress Besieged" />
-    <published>2024-08-16T00:00:00+08:00</published>
-  
-    <updated>2025-01-28T23:42:11+08:00</updated>
-  
-    <id>http://localhost:4000/posts/weicheng/</id>
-    <content src="http://localhost:4000/posts/weicheng/" />
-    <author>
-      <name>Ma Tao</name>
-    </author>
-
-  
-    
-    <category term="Essay" />
-    
-  
-
-  <summary>“Those outside the city want to rush in, while those inside the city want to escape.”</summary>
 
   </entry>
 
