@@ -34,4 +34,5 @@ My personal website is hosted on GitHub Pages and uses the Chirpy theme for Jeky
 
 #### Contributions
 
+
 <img src="https://ghchart.rshah.org/409ba5/Collapsar0615" alt="Collapsar's Github Chart" />
