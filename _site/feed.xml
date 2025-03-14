@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Collapsar</title>
   <subtitle>A personal blog by Ma Tao.</subtitle>
-  <updated>2025-03-14T19:43:31+08:00</updated>
+  <updated>2025-03-14T20:07:08+08:00</updated>
   <author>
     <name>Ma Tao</name>
     <uri>http://localhost:4000/</uri>
@@ -34,39 +34,11 @@
 
   
     
-    <category term="Essay" />
-    
-    <category term="Annual Summary" />
+    <category term="Essay，Annual Summary" />
     
   
 
-  <summary>The year-end summary for 2024, covering aspects such as academics, life, and more.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>The Not So Short Introduction to Typst(updating)</title>
-    <link href="http://localhost:4000/posts/typst/" rel="alternate" type="text/html" title="The Not So Short Introduction to Typst(updating)" />
-    <published>2025-01-18T00:00:00+08:00</published>
-  
-    <updated>2025-01-28T23:42:11+08:00</updated>
-  
-    <id>http://localhost:4000/posts/typst/</id>
-    <content src="http://localhost:4000/posts/typst/" />
-    <author>
-      <name>Ma Tao</name>
-    </author>
-
-  
-    
-    <category term="Computer Science" />
-    
-    <category term="Typst" />
-    
-  
-
-  <summary>A Quick Start Guide to Typst, including its advantages, environment setup, and syntax.</summary>
+  <summary>The year-end summary for 2024， covering aspects such as academics， life， and more。</summary>
 
   </entry>
 
@@ -145,6 +117,32 @@
   
 
   <summary>“Black holes are not dead stars, nor are they the final outcome of stellar evolution; rather, they are just one stage in the process of stellar evolution.”</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Qian Zhongshu, Fortress Besieged</title>
+    <link href="http://localhost:4000/posts/weicheng/" rel="alternate" type="text/html" title="Qian Zhongshu, Fortress Besieged" />
+    <published>2024-08-16T00:00:00+08:00</published>
+  
+    <updated>2025-01-31T20:46:40+08:00</updated>
+  
+    <id>http://localhost:4000/posts/weicheng/</id>
+    <content src="http://localhost:4000/posts/weicheng/" />
+    <author>
+      <name>Ma Tao</name>
+    </author>
+
+  
+    
+    <category term="Essay" />
+    
+    <category term="Reading journal" />
+    
+  
+
+  <summary>“Those outside the city want to rush in, while those inside the city want to escape.”</summary>
 
   </entry>
 
