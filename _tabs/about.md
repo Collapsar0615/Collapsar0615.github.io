@@ -5,8 +5,7 @@ order: 4
 ---
 Hello,everyone!😊 
 
-Here is **Collapsar** (Ma Tao),and now I am a master majoring in Theoretical Physics at the University of Chinese Academy of Sciences.My research interest is mainly about
-**General Relativity & Quantum Cosmology**.
+Here is **Collapsar** (Ma Tao),and now I am a master majoring in Theoretical Physics at the University of Chinese Academy of Sciences.My research interests focus on gravitational theory, particularly gauge/gravity duality and its applications, as well as various aspects of black hole physics.
 
 ## Academic Background 
 - **Sep 2024 - Future:** 
